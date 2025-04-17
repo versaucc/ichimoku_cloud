@@ -1,0 +1,4 @@
+Includes two types: 
+    OHLCV data w.r.t timeframe 
+    Tenkan, Kijun, High, Low of that tf
+
