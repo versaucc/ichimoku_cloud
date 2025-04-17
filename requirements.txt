@@ -1,0 +1,7 @@
+eth_account
+hyperliquid
+json
+requests 
+time
+pandas
+dotenv
